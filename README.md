@@ -1,0 +1,2 @@
+# clipper
+Infinite history clipboard
